@@ -3,5 +3,5 @@
 var customerName = 'Chris'; 
 
 function upperCaseCustomerName(name) { 
-  name.toUpperCase(); 
+  return name.toUpperCase(); 
 }
