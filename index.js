@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-var customerName = 'Chris'; 
+var customerName = 'Bob'; 
 const leastFavoriteCustomer='Samir'
 
 
